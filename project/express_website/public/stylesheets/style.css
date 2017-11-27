@@ -1,0 +1,43 @@
+body {
+  padding-top: 50px;
+  margin-bottom: 0px;
+ 
+}
+
+.jumbotron{
+	background: url(../images/corp.jpg) no-repeat;
+}
+.jumbo_naslov{
+	color: white;
+}
+
+.justify{
+	text-align: justify;
+}
+
+#navbarsExampleDefault ul li a{
+	color: white;
+	
+}
+
+.naslov{
+	margin-top: 30px;
+}
+
+form{
+	margin-top: 30px;
+}
+
+
+footer{
+
+	background: #f4f4f4;
+	height: 40px;
+	text-align: center;
+	margin-top: 30px;
+	padding-top: 10px;
+	
+	
+
+
+}
